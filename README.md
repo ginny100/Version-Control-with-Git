@@ -8,9 +8,10 @@ This repo contains all notes and source code from the free course [Version Contr
 |                                  | 3. Git and Version Control Terminology  |
 |                                  | 4. Mac/Linux Setup                      |
 |                                  | 5. Windows Setup                        |
-| Create A Git Repo                | 1. Create A Git Repo from Scratch       |
-|                                  | 2. Clone An Existing Repo               |
-|                                  | 3. Determine A Repo's Status            |
+| Create A Git Repo                | 1. Overview            
+|                                  | 2. Create A Git Repo from Scratch       |
+|                                  | 3. Clone An Existing Repo               |
+|                                  | 4. Determine A Repo's Status            |
 | Review a Repo's History          | 1. Displaying A Repository's Commits    |
 |                                  | 2. Changing How Git Log Displays        |
 |                                  | Information                             |
