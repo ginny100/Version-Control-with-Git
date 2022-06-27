@@ -1,5 +1,8 @@
 # Version Control with Git
-This repo contains all notes and source code from the free course [Version Control with Git](https://learn.udacity.com/courses/ud123) by Richard Kalehoff on Udacity
+- This repo contains all notes from the free course [Version Control with Git](https://learn.udacity.com/courses/ud123) by Richard Kalehoff on Udacity
+- The Git projects used in the course are not included in this repo. If you follow along with the instructor, you'll be able to add them by yourself.
+- The project provided by the course instructor and will be used throughout this course is located at this URL: https://github.com/udacity/course-git-blog-project
+
 ## Table of content
 | Section                          | Contents                                |
 |----------------------------------|-----------------------------------------|
