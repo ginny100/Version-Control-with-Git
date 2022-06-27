@@ -34,3 +34,9 @@
 | Undoing Changes                  | 1. Modifying The Last Commit            |
 |                                  | 2. Reverting A Commit                   |
 |                                  | 3. Resetting Commits                    |
+
+## Expand On Your Git Skills
+- Take the companion GitHub course
+- Create a repo to track your computer's settings - https://dotfiles.github.io/
+- Develop the next, awesome feature for your personal project
+- Try tackling some Git challenges with the [Git-it app](https://github.com/jlord/git-it-electron)
