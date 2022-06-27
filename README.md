@@ -1,5 +1,5 @@
 # Version Control with Git
-This repo contains all notes and source code from the free course [Version Control with Git](https://learn.udacity.com/courses/ud123) on Udacity
+This repo contains all notes and source code from the free course [Version Control with Git](https://learn.udacity.com/courses/ud123) by Richard Kalehoff on Udacity
 ## Table of content
 | Section                          | Contents                                |
 |----------------------------------|-----------------------------------------|
